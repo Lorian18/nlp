@@ -1,5 +1,5 @@
 # Flask-vuejs-nlp
-本项目是我大数据的大作业，要求是在网站里实现nlp的一些功能。
+在网站里实现nlp的一些功能。
 前端：vue, Jquery, elment-ui
 后端：flask
 部署：docker-compose
